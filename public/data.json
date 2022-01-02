@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Yamaha R15",
+        "brand": "Yamaha",
+        "price": "480000",
+        "rating": 5,
+        "description": "R15 is a big name in today's world. Which is a great asset to the global motorcycle industry, including Bangladesh. The Japanese brand Yamaha first introduced their R15 bike to the world in 2008. Following its widespread success, Yamaha has been regularly updating the R15 bike. As part of this, Yamaha launched R15 V2, R15 V3 and currently R15M in the global market including Bangladesh. Yamaha's latest addition to the Bangladesh market is the Yamaha R15M, which is a sleek sports bike with the same attractive features as ever. Let’s take a look at the key features and evaluation of the Yamaha R15M bike.",
+        "img": "https://gotoshop.com.bd/image/cache/KidsCars/yamaha-r1-super-bike-kid-electric-ride-on-motor-bike-6-volt-500x500.jpg"
+    },
+    {
+        "name": "CBR150R ",
+        "brand": "Honda",
+        "price": "205000",
+        "rating": 5,
+        "description": "The CBR150R is one of the stylish latest super bikes of Honda. Including its outstanding features like - sporty look and wonderful color combination along with liquid-cooled powerful engine which included a program fuel injection. In comparison, its price is higher in Bangladesh, but its demand for fashion-based Bangladeshis is above all. The CBR sports bikes are a big part of the motor sports world. Yamaha R15 v3, Suzuki GSX R150 are the strong competitors of this super dashing bike.",
+        "img": "https://images.unsplash.com/photo-1623756005234-9cfaafc647dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "name": "Harley Davidson",
+        "brand": "Harley Davidson",
+        "price": "880000",
+        "rating": 5,
+        "description": "Harley-Davidson, Inc., H-D, or Harley, is an American motorcycle manufacturer founded in 1903 in Milwaukee, Wisconsin. Along with Indian, it was one of two major American motorcycle manufacturers to survive the Great Depression.",
+        "img": "https://images.unsplash.com/photo-1558981033-0f0309284409?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "Suzuki GSX R150",
+        "brand": "Suzuki",
+        "price": "280000",
+        "rating": 5,
+        "description": "Suzuki GSX R150 is currently the king of speed in Bangladesh. The bike has a powerful FI (fuel injection) engine and this GSX R150 bike is relatively small in size and light so the acceleration of the bike is excellent. Suzuki first launched this model on 02 November 2016 in Indonesia. It has gained a lot of popularity in the South Asian market including Bangladesh through gradual changes. Let's take a brief look at the Suzuki GSX R150 bike.",
+        "img": "https://images.unsplash.com/photo-1599401677465-9af5ab3d5487?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+        "name": "Royel Enfield",
+        "brand": "Royel Enfield",
+        "price": "480000",
+        "rating": 5,
+        "description": "Royal Enfield is an Indian multinational motorcycle manufacturing company headquartered in Chennai, Tamil Nadu, India. The company is the oldest global motorcycle brand in continuous production, and operates manufacturing plants in Chennai in India.",
+        "img": "https://images.unsplash.com/photo-1544368200-c30c22b3d7c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "McLaren 765LT",
+        "brand": "McLaren",
+        "price": "480000",
+        "rating": 5,
+        "description": "the 765LT is 176 lbs lighter than a 720S, as well as having 45 more horsepower at 755 HP . It comes with a much more aggressive suspension setup, faster shifts, stronger acceleration, and Pirelli Trofeo R semi-slick tires as standard. Also standard are carbon-ceramic brake discs, a full titanium exhaust, and some active aerodynamics in the form of the rear spoiler. The front splitter, rear bumper, and spoiler are also made of Formula 1 grade composites, meaning extreme strength combined with ridiculous lightness. As well, because the car comes from McLaren Special Operations, it can be customized far beyond what a 720S can be. Colors, interior materials, even personalization options like having your initials sewn into the seats… whatever the customer wants, within reason, the customer can get",
+        "img": "https://images.unsplash.com/photo-1608461688104-304d5fe60da1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "Ducati",
+        "brand": "Ducati",
+        "price": "480000",
+        "rating": 5,
+        "description": "The Hyundai Accent is a subcompact car that provides great controls, a smooth ride, comfortable seats, and good safety. The Accent has plenty of passenger space and user-friendly controls. The interior is pretty good considering the price point with roomy seats and nice features. The seats could use a little more support, but they’re comfortable overall. Chevrolet Sonic Sedan, Nissan Versa and Toyota Yaris Sedan are the rivals of the Hyundai Accent. This beauty could be found at Fair Technology Ltd as they are the authorized partner of Hyundai Passenger Vehicles in Bangladesh.",
+        "img": "https://images.unsplash.com/photo-1625043484550-df60256f6ea5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+        "name": "Range Rover Evoque",
+        "brand": "Range Rover",
+        "price": "964800",
+        "rating": 5,
+        "description": "The Range Rover Evoque is a subcompact luxury crossover SUV with a tough-built quality and great performance. It is equipped with a powerful 1997cc engine that produces 430Nm @ 1750-2500rpm maximum torque and with its all-wheel-drive system this ensures a confident drive, on or off-road or on a slippery road. Audi Q5, BMW X4 and Land Rover Discovery Sport are considered as the rival of the Range Rover Evoque.",
+        "img": "https://images.unsplash.com/photo-1589963575227-08d8ea840e85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "name": "Audi A8L",
+        "brand": "Audi",
+        "price": "480000",
+        "rating": 5,
+        "description": "Equipped with a standard 3.0-liter turbocharged V6 engine along with an available 3.0-liter Plug-in hybrid (60 TFSI e) and 4.0-liter twin-turbocharged engine the Audi A8L checks all the critical boxes for a modern mid-size luxury vehicle. For a sporty presence, the iconic Singleframe® grille is installed along with sensors to help you maintain speed, following distance and lane position. This executive luxury sedan is available in Bangladesh and can be found at Audi Bangladesh – Progress Motors Imports Limited.",
+        "img": "https://images.unsplash.com/photo-1573665200673-3317098ec821?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "name": "Audi Q3",
+        "brand": "Audi",
+        "price": "610000",
+        "rating": 5,
+        "description": "The Audi Q3 is a luxury vehicle with standard Quattro all-wheel drive, bold exterior and interior design is pure luxury. It also offers many technologies and connectivity features along with high-gloss black accents on the window surrounds and bumper turns this into a formidable SUV. Installed Driver Assistance features help to alert drivers and passengers of activity around the vehicle. Progress Motors Imports Limited is the authorized dealer of Audi in Bangladesh. BMW X1, Mercedes GLA and Range Rover Evoque hatchback are the main competitors of this beauty.",
+        "img": "https://images.unsplash.com/photo-1588925762549-c414056c4d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=367&q=80"
+    }
+]
