@@ -9,10 +9,10 @@ const Banner = () => {
         <div  >
          
 
-            <div className="top-banner">
-                <h1>The Best Bike Dealer</h1>
+        <div className="top-banner">
+                <h1 style={{color:"	DarkSlateGray "}} className="banner-heading">The Best Bike Dealer</h1>
                 <h5 >Ride Your Own Path</h5>
-                <button className="btn btn-warning mt-3">Explore</button>
+                {/* <button className="btn btn-warning mt-3">Explore</button> */}
             </div>
         </div>
     );

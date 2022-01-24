@@ -17,7 +17,7 @@ const Bike = (props) => {
 
 
                 <Card>
-                    <Card.Img variant="top" src={img} height="300" />
+                    <Card.Img variant="top" src={img} style={{objectFit:"cover",height:"300px"}}  />
                     <Card.Body>
                         <Card.Title>{name}</Card.Title>
                         <Card.Text>

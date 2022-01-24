@@ -12,7 +12,7 @@ const Purchase = () => {
     
     const { user } = useAuth()
     const { id } = useParams()
-    const [car, setCar] = useState({})
+    const [bike, setBike] = useState({})
     const history = useHistory()
     // const [status, set]
     useEffect(() => {
@@ -21,7 +21,7 @@ const Purchase = () => {
         fetch(url)
             .then(res => res.json())
             .then(data => {
-                setCar(data)
+                setBike(data)
                 
             })
     }, [])
@@ -38,7 +38,7 @@ const Purchase = () => {
     const onSubmit = data => {
         
         data.status = 'pending'
-        data.purchase = car;
+        data.purchase = bike;
         
         console.log(data)
         fetch('https://salty-scrubland-71202.herokuapp.com/purchase', {
@@ -68,14 +68,14 @@ const Purchase = () => {
                 <Row>
                     <Col className="my-5">
                     <Card>
-                    <Card.Img variant="top" src={car.img} height="300" />
+                    <Card.Img variant="top" src={bike.img}  style={{objectFit:"cover",height:"350px"}} />
                     <Card.Body>
-                        <Card.Title>{car.name}</Card.Title>
+                        <Card.Title>{bike.name}</Card.Title>
                         <Card.Text>
                             <Container>
                                 <Row>
                                     <Col>
-                                    {car.price}
+                                    {bike.price}
                                     </Col>
                                 </Row>
                             </Container>
