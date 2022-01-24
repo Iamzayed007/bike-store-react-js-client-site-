@@ -74,7 +74,7 @@ const Footer = () => {
 
             <div className="footer-copyright text-center py-3">
                 <h6 className=" me-end">© 2021 copyright:
-                    <Link href="#" className="footer-link "> bikestore.com </Link>
+                    <Link href="#" className="footer-link ">  bikestore.com </Link>
 
                 </h6>
 

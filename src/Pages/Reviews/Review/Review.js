@@ -139,7 +139,7 @@ const Review = () => {
                
                     </div>
                     <div className="row">
-                    <div className="text-center text-md-left">
+                    <div className="text-center text-md-left mt-3">
                 <input className="btn btn-outline-warning"  type="submit"/>
                 </div>
                     </div>

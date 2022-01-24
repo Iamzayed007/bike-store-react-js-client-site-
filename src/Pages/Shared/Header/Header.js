@@ -14,7 +14,7 @@ const Header = () => {
 
             <Navbar sticky="top" collapseOnSelect expand="lg" bg="myRed"  >
                 <Container>
-                    <Navbar.Brand as={HashLink} to="/" className="fs-1"> <span className="text-black" >Bike Store</span> </Navbar.Brand>
+                    <Navbar.Brand as={HashLink} to="/" className="fs-1"> <span className="text-white" >BIKE STORE</span> </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="mx-auto ">
